@@ -1,2 +1,5 @@
-# hp-envy-15-linux-wifi
-I had problems trying to get wifi working on this laptop so this is supposed to act as a guide lol
+| Distro  | Tested on | Steps                                                 | Link                                     |
+|---------|-----------|-------------------------------------------------------|------------------------------------------|
+| Manjaro | 21.0.2    | Works OOB                                             |                                          |
+| Fedora  | 33        | 1. Update kernel 2. Clone the git  3. Use DKMS method | https://github.com/antoineco/broadcom-wl |
+| RHEL    | 8.3       | 1. Update 2. Clone the git 3. Use DKMS method         | https://github.com/antoineco/broadcom-wl |
